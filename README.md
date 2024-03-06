@@ -1,0 +1,1 @@
+🚀 Automate your AWS EC2 management with this sleek Terraform setup! This code snippet sets up an AWS Lambda function to stop all running EC2 instances across multiple regions, ensuring you're in control of your cloud costs and resources. Perfect for DevOps enthusiasts and cloud-native warriors! 💻⛅️ #DevOps #Terraform #AWSLambda #CloudSavings #InfrastructureAsCode
